@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 
 # sff
-```jsx
+```js
 const element = <h1>Hello, world!</h1>;
 ```
